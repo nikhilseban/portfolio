@@ -322,11 +322,12 @@ input, select, textarea {
 	}
 
 	a {
-		color: #000000;
+		color: #71afe5;
 	}
 
 		a:hover {
-			color: #47D3E5;
+			color: #008ecc;
+			
 		}
 
 	strong, b {
