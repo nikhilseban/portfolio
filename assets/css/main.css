@@ -168,7 +168,7 @@ input, select, textarea {
 		-webkit-transition: color 0.2s ease-in-out;
 		-ms-transition: color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out;
-		text-decoration: underline;
+		text-decoration: none;
 	}
 
 		a:hover {
@@ -184,6 +184,8 @@ input, select, textarea {
 	}
 
 	p {
+		text-align: justify;
+  		text-justify: inter-word;
 		margin: 0 0 2rem 0;
 	}
 
@@ -320,11 +322,12 @@ input, select, textarea {
 	}
 
 	a {
-		color: #000000;
+		color: #71afe5;
 	}
 
 		a:hover {
-			color: #47D3E5;
+			color: #008ecc;
+			
 		}
 
 	strong, b {
